@@ -9,4 +9,4 @@ Sabemos que alguns países o Evangelho (a mensagem de Palavra de Deus) é proibi
 
 Por isso decidi na medida do possível trazer algumas das principais Escrituras e suas possíveis traduções para o português.
 
-Visite: https://cristianismohumilde.github.io/Scriptures
+Visite: <a href="https://cristianismohumilde.github.io/Scriptures">https://cristianismohumilde.github.io/Scriptures</a>
