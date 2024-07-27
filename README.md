@@ -8,3 +8,5 @@ e no Brasil está sendo utlizada especialmente de maneira muito corrupta para fi
 Sabemos que alguns países o Evangelho (a mensagem de Palavra de Deus) é proibido, e em alguns quando permitido é também é adulterado.
 
 Por isso decidi na medida do possível trazer algumas das principais Escrituras e suas possíveis traduções para o português.
+
+Visite: https://cristianismohumilde.github.io/Scriptures
