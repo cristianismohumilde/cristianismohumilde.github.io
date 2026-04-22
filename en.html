@@ -18,17 +18,22 @@
     <nav id="navbar">
         <div class="container nav-content">
             <a href="#" class="logo">Humble Christianity</a>
-            <div class="nav-links">
+            <div class="nav-links" id="nav-links">
                 <a href="#home">Home</a>
                 <a href="#about">About</a>
                 <a href="#scriptures">Scriptures</a>
                 <a href="#contact">Contact</a>
             </div>
             <div class="controls">
-                <div id="theme-toggle" class="theme-toggle"><i class="fas fa-moon"></i></div>
-                <a href="index.html" class="lang-toggle" title="Português">
-                    <img src="https://flagcdn.com/w40/br.png" class="lang-flag" alt="Português">
+                <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark/light theme" style="background: none; border: none; padding: 0;">
+                    <i class="fas fa-moon"></i>
+                </button>
+                <a href="index.html" class="lang-toggle" title="Português" aria-label="Switch to Portuguese">
+                    <img src="https://flagcdn.com/w40/br.png" class="lang-flag" alt="Brazilian Flag - Portuguese">
                 </a>
+                <div id="mobile-menu-btn" class="mobile-menu-btn" aria-label="Open mobile menu">
+                    <i class="fas fa-bars"></i>
+                </div>
             </div>
         </div>
     </nav>
@@ -54,9 +59,9 @@
                     <img src="assets/about.png" alt="Ancient Manuscript">
                 </div>
                 <div class="about-text">
-                    <div class="section-title" style="text-align: left;">
+                    <div class="section-title" style="text-align: center;">
                         <h2>Our Mission</h2>
-                        <div class="line" style="margin: 0;"></div>
+                        <div class="line"></div>
                     </div>
                     <h3>Integrity in the Scriptures</h3>
                     <p>This movement seeks to rescue Christian truth, which is often vilified and distorted in the modern world. In Brazil, we observe the Gospel being used corruptly for political purposes or to promote shady interests.</p>

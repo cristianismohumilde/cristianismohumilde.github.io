@@ -18,17 +18,22 @@
     <nav id="navbar">
         <div class="container nav-content">
             <a href="#" class="logo">Cristianismo Humilde</a>
-            <div class="nav-links">
+            <div class="nav-links" id="nav-links">
                 <a href="#inicio">Início</a>
                 <a href="#sobre">Sobre</a>
                 <a href="#escrituras">Escrituras</a>
                 <a href="#contato">Contato</a>
             </div>
             <div class="controls">
-                <div id="theme-toggle" class="theme-toggle"><i class="fas fa-moon"></i></div>
-                <a href="en.html" class="lang-toggle" title="English">
-                    <img src="https://flagcdn.com/w40/us.png" class="lang-flag" alt="English">
+                <button id="theme-toggle" class="theme-toggle" aria-label="Alternar tema claro/escuro" style="background: none; border: none; padding: 0;">
+                    <i class="fas fa-moon"></i>
+                </button>
+                <a href="en.html" class="lang-toggle" title="English" aria-label="Mudar para Inglês">
+                    <img src="https://flagcdn.com/w40/us.png" class="lang-flag" alt="Bandeira dos EUA - Inglês">
                 </a>
+                <div id="mobile-menu-btn" class="mobile-menu-btn" aria-label="Abrir menu mobile">
+                    <i class="fas fa-bars"></i>
+                </div>
             </div>
         </div>
     </nav>
@@ -54,9 +59,9 @@
                     <img src="assets/about.png" alt="Manuscrito Antigo">
                 </div>
                 <div class="about-text">
-                    <div class="section-title" style="text-align: left;">
+                    <div class="section-title" style="text-align: center;">
                         <h2>Nossa Missão</h2>
-                        <div class="line" style="margin: 0;"></div>
+                        <div class="line"></div>
                     </div>
                     <h3>Integridade nas Escrituras</h3>
                     <p>Este movimento busca tentar resgatar a verdade cristã, muitas vezes vilipendiada e deturpada no mundo moderno. No Brasil, observamos o Evangelho ser utilizado de maneira corrupta para fins políticos ou promoção de interesses escusos.</p>
