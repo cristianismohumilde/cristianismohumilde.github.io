@@ -45,6 +45,7 @@ Este projeto utiliza tecnologias leves e eficientes:
 - **Multi-idioma:** Versões em Português e Inglês.
 - **Responsivo:** Design adaptado para mobile, tablet e desktop.
 - **Acessibilidade:** Seguindo padrões ARIA e estados de foco aprimorados.
+- **Licença:** GNU GPL v3.0 (Copyleft) - Garantindo que o código permaneça sempre livre.
 - GitHub Pages
 
 ---
