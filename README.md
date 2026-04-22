@@ -43,6 +43,8 @@ Este projeto utiliza tecnologias leves e eficientes:
 - HTML5 Semântico / CSS3 / Vanilla JS
 - **Dark Mode:** Suporte nativo com toggle persistente.
 - **Multi-idioma:** Versões em Português e Inglês.
+- **Responsivo:** Design adaptado para mobile, tablet e desktop.
+- **Acessibilidade:** Seguindo padrões ARIA e estados de foco aprimorados.
 - GitHub Pages
 
 ---
