@@ -9,6 +9,8 @@
 
 <p align="center">
   <img src="assets/hero.png" width="600" alt="Cristianismo Humilde Preview">
+  <br>
+  <i><b>Simbologia:</b> O ramo de oliveira brotando do muro de pedra representa a vida e a verdade cristã emergindo com humildade de fundamentos sólidos e antigos.</i>
 </p>
 
 ## 📜 Sobre o Movimento
