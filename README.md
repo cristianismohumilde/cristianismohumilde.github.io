@@ -39,8 +39,10 @@ Além do portal institucional, mantemos um repositório dedicado de traduções 
 
 ## 🛠️ Tecnologias
 
-Este projeto utiliza tecnologias leves e eficientes para garantir acessibilidade universal:
+Este projeto utiliza tecnologias leves e eficientes:
 - HTML5 Semântico / CSS3 / Vanilla JS
+- **Dark Mode:** Suporte nativo com toggle persistente.
+- **Multi-idioma:** Versões em Português e Inglês.
 - GitHub Pages
 
 ---
