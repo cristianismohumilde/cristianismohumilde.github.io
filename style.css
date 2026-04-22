@@ -58,6 +58,12 @@ h1, h2, h3, h4 {
     line-height: 1.2;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+    transition: var(--transition-smooth);
+}
+
 a:focus-visible, 
 button:focus-visible, 
 [role="button"]:focus-visible {
@@ -106,6 +112,7 @@ nav.scrolled {
     font-weight: 700;
     letter-spacing: -0.02em;
     color: var(--color-white);
+    text-decoration: none !important;
 }
 
 nav.scrolled .logo {
@@ -124,6 +131,7 @@ nav.scrolled .logo {
     letter-spacing: 0.1em;
     opacity: 0.8;
     color: var(--color-white);
+    text-decoration: none;
 }
 
 nav.scrolled .nav-links a {
@@ -338,6 +346,15 @@ footer {
 
 .footer-links li {
     margin-bottom: 0.8rem;
+}
+
+footer a {
+    color: rgba(255, 255, 255, 0.7);
+    transition: var(--transition-smooth);
+}
+
+footer a:hover {
+    color: var(--color-white);
 }
 
 .footer-bottom {
